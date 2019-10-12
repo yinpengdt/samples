@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/astaxie/beego"
-	"github.com/beego/samples/todo/models"
+	"todo/models"
 )
 
 type TaskController struct {
